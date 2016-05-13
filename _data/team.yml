@@ -80,3 +80,17 @@
     - icon: "website"
       title: johannadahlroos.com
       link: "https://johannadahlroos.com/"
+- name: "Andrew Hobden"
+  nick: "hoverbear"
+  desc: "Explorer of distributed systems."
+  thumbnailUrl: andrew.png
+  links:
+    - icon: "twitter"
+      title: "andrewhobden"
+      link: "https://twitter.com/AndrewHobden"
+    - icon: "github"
+      title: "hoverbear"
+      link: "https://github.com/Hoverbear"
+    - icon: "website"
+      title: "hoverbear.org"
+      link: "https://hoverbear.org"
